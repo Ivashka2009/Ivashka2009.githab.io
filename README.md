@@ -2,4 +2,4 @@
 описание бота:
 
 
-[какая-то ссылка](https://t.me/ocen_xoroshiy_bot)
+[мой первый бот](https://t.me/ocen_xoroshiy_bot)
